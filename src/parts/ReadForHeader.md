@@ -1,0 +1,2 @@
+# getting start for header.js
+setiap website memiliki header di masing pagesnyam sehingga membuat file header di folder parts memudahkan kita jika client meminta perubahan terhadap element di block header
